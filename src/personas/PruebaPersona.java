@@ -18,7 +18,7 @@ public class PruebaPersona {
          Persona per1 = new Persona("20222444L", "María", "Carcelén Sánchez", 67);
          Persona per2 = new Persona("José", "Serrano Márquez", 25);
          Persona per3 = new Persona("64578488K","Pedro", "De la Calle García", 55);
-         Persona per4 = new Persona("05445540Z","Jonathan", "Calva Soto", 19);
+         Persona per4 = new Persona("05445540Z","Jonathan Javier", "Calva Soto", 19);
          
          //Almacenamos las instancias de personas en un array
          Persona[] arrayPersonas = new Persona[4];
