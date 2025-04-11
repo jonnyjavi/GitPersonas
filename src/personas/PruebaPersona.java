@@ -18,12 +18,14 @@ public class PruebaPersona {
          Persona per1 = new Persona("20222444L", "María", "Carcelén Sánchez", 67);
          Persona per2 = new Persona("José", "Serrano Márquez", 25);
          Persona per3 = new Persona("64578488K","Pedro", "De la Calle García", 55);
+         Persona per4 = new Persona("05445540Z","Jonathan", "Calva Soto", 19);
          
          //Almacenamos las instancias de personas en un array
-         Persona[] arrayPersonas = new Persona[3];
+         Persona[] arrayPersonas = new Persona[4];
          arrayPersonas[0] = per1;
          arrayPersonas[1] = per2;
          arrayPersonas[2] = per3;
+         arrayPersonas[3] = per4;
          
          //Imprimimos los datos de todas las personas
          System.out.println("LISTA DE PERSONAS:");
